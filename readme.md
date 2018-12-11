@@ -1,1 +1,4 @@
 - install express body-parser
+- install nodemon globally
+- initiate express server (server.js)
+- - install graphql express-graphql
